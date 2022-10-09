@@ -1,1 +1,1 @@
-# array-method-1
+# array-method-1 (5methods)
